@@ -5,9 +5,12 @@ tester les focntions du backend :
 l'ajout au niveau de la bdd:
 ![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/2c1235d6-9d97-4827-8933-e92ad72e56c6)
 
-SHOWPositions :![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/2b20a8cd-caef-47aa-b034-e26e6ab82b49)
-Affichage de la map initialement :![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/ab9880eb-34d9-4b44-93b0-42cf1c1aa05e)
-Recuperation du seul eleemnt dans la bdd :![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/267d814d-acb7-488c-af22-bda4de36b0de)
+SHOWPositions :
+![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/2b20a8cd-caef-47aa-b034-e26e6ab82b49)
+Affichage de la map initialement :
+![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/ab9880eb-34d9-4b44-93b0-42cf1c1aa05e)
+Recuperation du seul eleemnt dans la bdd :
+![image](https://github.com/kawtare12/TpLocalisation/assets/120519708/267d814d-acb7-488c-af22-bda4de36b0de)
 
 Boutton dans Main :
 
